@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21a5f7ae-9780-47ef-be35-f04473ba4700" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/PatientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/jfoenix-8.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/mysql-connector-java-5.1.47.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/PatientUI.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Owner\Desktop\Classes\CIS Major\CIS 3368\Hw2\PatientDatabase\PatientDatabase\src\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j7GA7dLLJn9LZEaKLsNK3xrqTj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21a5f7ae-9780-47ef-be35-f04473ba4700" name="Default Changelist" comment="" />
+      <created>1603147569679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603147569679</updated>
+      <workItem from="1603147571037" duration="1394000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="874" y="445" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1603148956181">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="874" y="445" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2048.1112/2560.0.2560.1400@0.0.2048.1112" timestamp="1603148956181" />
+    <state x="530" y="153" key="CommitChangelistDialog2" timestamp="1603148584826">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="530" y="153" key="CommitChangelistDialog2/0.0.2048.1112/2560.0.2560.1400@0.0.2048.1112" timestamp="1603148584826" />
+    <state x="805" y="298" key="FileChooserDialogImpl" timestamp="1603148279214">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="298" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.2560.1400@0.0.2048.1112" timestamp="1603148279214" />
+    <state x="895" y="450" key="Github.ShareDialog" timestamp="1603148418664">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="895" y="450" key="Github.ShareDialog/0.0.2048.1112/2560.0.2560.1400@0.0.2048.1112" timestamp="1603148418664" />
+    <state x="672" y="362" key="Vcs.Push.Dialog.v2" timestamp="1603148890930">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="672" y="362" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.0.2560.1400@0.0.2048.1112" timestamp="1603148890930" />
+    <state x="834" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603148964799">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="834" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1112/2560.0.2560.1400@0.0.2048.1112" timestamp="1603148964799" />
+    <state x="698" y="421" key="git4idea.rebase.GitRebaseDialog" timestamp="1603148616921">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="698" y="421" key="git4idea.rebase.GitRebaseDialog/0.0.2048.1112/2560.0.2560.1400@0.0.2048.1112" timestamp="1603148616921" />
+  </component>
+</project>
